@@ -1,0 +1,6 @@
+{
+  "name": "Ping — Anonymous Chat",
+  "description": "Real-time anonymous 1-on-1 chat app with instant matchmaking, ephemeral rooms, smart moderation, and real-time admin telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

@@ -1,0 +1,16 @@
+{
+  "penalties": {
+    "test_user_obf": {
+      "type": "ban_15min",
+      "startTime": 1792598406020,
+      "duration": 900000,
+      "expiresAt": 1792599306020
+    },
+    "dh_test_verification_1792601796336": {
+      "type": "ban_15min",
+      "startTime": 1792601797052,
+      "duration": 3599449,
+      "expiresAt": 1792605396501
+    }
+  }
+}
