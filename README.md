@@ -2,19 +2,16 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Ping — Anonymous Chat
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/97f03824-bc8c-4fb8-b4e8-22aa46e3bdea
+Real-time 1-on-1 anonymous chat application with instant matchmaking, ephemeral rooms, smart moderation, and real-time admin & growth intelligence telemetry synced with Firebase Firestore.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js 18+
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Configure optional environment variables in `.env` (see `.env.example` for Redis and admin passcode configuration).
+3. Run the server:
    `npm run dev`
